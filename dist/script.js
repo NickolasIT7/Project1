@@ -15,5 +15,5 @@
 // console.log('message +=2;', 'message=', message)
 // let переменная = 10
 var name1 = 'John';
-var admin = name1;
+var d = name1;
 alert(admin);
